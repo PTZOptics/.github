@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://ptzoptics.com">
-    <img src="https://s3.amazonaws.com/imagerelay-assets/client/5006/assets/134867421/PTZOptics-Logo--White-_full.jpg?AWSAccessKeyId=AKIA5ADFC2HHA2CKPJ47&Expires=1786374681&Signature=SeS%2Bh5IMBZRCCqKB9AEgjehHPgE%3D" width="400" alt="PTZOptics Logo" media="(prefers-color-scheme: light)" />
     <img src="https://ptzoptics.com/wp-content/uploads/2024/07/PTZOptics-Logo-White-registered.png" width="400" alt="PTZOptics Logo" media="(prefers-color-scheme: dark)" />
   </a>
 </div>
