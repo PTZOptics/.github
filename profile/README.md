@@ -1,7 +1,7 @@
 <div align="center">
   
-![PTZOptics Logo](./assets/PTZOptics-Logo-Vector--White-.svg#gh-dark-mode-only)
-![PTZOptics Logo](./assets/PTZOptics-Logo-Vector--Black-.svg#gh-light-mode-only)
+![PTZOptics Logo](../assets/PTZOptics-Logo-Vector--White-.svg#gh-dark-mode-only)
+![PTZOptics Logo](../assets/PTZOptics-Logo-Vector--Black-.svg#gh-light-mode-only)
 
 </div>
 <br />
