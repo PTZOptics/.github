@@ -1,14 +1,8 @@
 <div align="center">
   <a href="https://ptzoptics.com">
     <picture>
-      <!-- This shows for users in Dark Mode (White Logo) -->
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/PTZOptics-Logo-Vector--White-.svg">
-      
-      <!-- This shows for users in Light Mode (Black Logo) -->
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/PTZOptics-Logo-Vector--White-.svg">    
       <source media="(prefers-color-scheme: light)" srcset="./.github/assets/PTZOptics-Logo-Vector--Black-.svg">
-      
-      <!-- Fallback image just in case -->
-      <img alt="PTZOptics Logo" src="./.github/assets/PTZOptics-Logo-Vector--Black-.svg" width="400">
     </picture>
   </a>
 </div>
