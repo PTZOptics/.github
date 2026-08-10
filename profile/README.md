@@ -1,12 +1,9 @@
 <div align="center">
-  <a href="https://ptzoptics.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/PTZOptics-Logo-Vector--White-.svg">    
-      <source media="(prefers-color-scheme: light)" srcset="./.github/assets/PTZOptics-Logo-Vector--Black-.svg">
-    </picture>
-  </a>
-</div>
+  
+![PTZOptics Logo](./.github/assets/PTZOptics-Logo-Vector--White-.svg#gh-dark-mode-only)
+![PTZOptics Logo](./.github/assets/PTZOptics-Logo-Vector--Black-.svg#gh-light-mode-only)
 
+</div>
 <br />
 
 # Welcome to the PTZOptics GitHub 👋
